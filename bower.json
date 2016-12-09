@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "homepage": "https://github.com/Royzx/Imooc",
+  "authors": [
+    "XiaoBai <592151648@qq.com>"
+  ],
+  "description": "imooc movie",
+  "main": "",
+  "keywords": [
+    "imooc"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

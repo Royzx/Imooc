@@ -1,0 +1,52 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "connect-mongo": "^1.3.2",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-alpha.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "grunt-mocha-test": "^0.13.2",
+    "jade": "^1.11.0",
+    "moment": "^2.17.0",
+    "mongoose": "^4.7.0",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "serve-static": "^1.11.1",
+    "should": "^11.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royzx/Imooc.git"
+  },
+  "keywords": [
+    "imooc",
+    "movie"
+  ],
+  "author": "Royzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royzx/Imooc/issues"
+  },
+  "homepage": "https://github.com/Royzx/Imooc#readme"
+}
